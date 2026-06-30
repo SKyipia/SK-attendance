@@ -1,5 +1,5 @@
 {
-  "name": "SK打卡系統",
+  "name": "SK 打卡系統",
   "short_name": "SK打卡",
   "start_url": "./index.html",
   "display": "standalone",
